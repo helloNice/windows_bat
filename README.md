@@ -29,3 +29,7 @@ FAQ:
 
 
 因脚本还有不完善的地方,所以本贴后面持续更新,请多多关注,因资历有限,尚未精通,如有不对的地方,还请各位大佬 不吝赐教.
+
+pscp下载地址，工具超好用
+32位:https://the.earth.li/~sgtatham/putty/latest/w32/pscp.exe
+64位:https://the.earth.li/~sgtatham/putty/latest/w64/pscp.exe
